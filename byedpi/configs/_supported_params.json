@@ -10,7 +10,6 @@
         "-g", "--def-ttl",
         "-N", "--no-domain",
         "-U", "--no-udp",
-        "-F", "--tfo",
         "-A", "--auto",
         "-L", "--auto-mode",
         "-u", "--cache-ttl",
